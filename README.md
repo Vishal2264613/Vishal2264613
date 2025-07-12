@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 I'm a **Full Stack Developer** who enjoys building scalable and responsive web applications.<br>  
 🔭 Currently working on multiple full-stack projects using React, Node.js, and MongoDB.<br>  
-🌱 Learning advanced frontend animation with GSAP and exploring GraphQL.<br>  
+🌱 Learning advanced frontend animation with GSAP.<br>  
 ⚡ "Invention is the natural outcome of creative thinking."
 
 ## 🌐 Socials:
@@ -16,7 +16,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
